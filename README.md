@@ -51,5 +51,5 @@ This project applies unsupervised learning techniques to segment customers based
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/customer-segmentation.git
+   git clone https://github.com/lckh24/Customer-Segmentation.git
    cd customer-segmentation
